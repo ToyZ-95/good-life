@@ -1,8 +1,11 @@
 # 🌿 Good Life
-**Small steps, big changes.**
-Good Life is a powerful, privacy-focused habit tracker designed to help you build consistency and achieve your goals. With beautiful heatmap charts, streak tracking, and interactive widgets, staying on track has never been easier.
 [![Latest Release](https://img.shields.io/github/v/release/ToyZ-95/good-life?color=blue&label=Download%20APK)](https://github.com/ToyZ-95/good-life/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg)](https://github.com/ToyZ-95/good-life/releases/latest)
+\
+\
+**Small steps, big changes.**
+Good Life is a powerful, privacy-focused habit tracker designed to help you build consistency and achieve your goals. With beautiful heatmap charts, streak tracking, and interactive widgets, staying on track has never been easier.
+
 ---
 ## ✨ Key Features
 - **📊 Visual Progress**: Track your consistency with GitHub-style heatmap charts and detailed streak statistics.
